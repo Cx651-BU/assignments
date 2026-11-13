@@ -18,8 +18,8 @@ INSERT INTO authors (name, country) VALUES
     ('Amara Okafor',        'Nigeria');    -- 8  (no books — LEFT JOIN test)
 
 -- ─── Books (19) ─────────────────────────────────────────────────────────────
--- 6 distinct genres: Fiction, Dystopian, Classic, Historical Fiction,
---                    Literary Fiction, Magical Realism
+-- 7 distinct genres: Fiction, Dystopian, Classic, Historical Fiction,
+--                    Literary Fiction, Magical Realism, Non-Fiction
 -- BETWEEN test: two books priced exactly $12.99 and $13.99
 
 INSERT INTO books (author_id, title, genre, pub_year, price) VALUES
