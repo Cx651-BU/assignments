@@ -1,5 +1,5 @@
 -- transaction_demo.sql  — provided for PA13, Part A
--- Run from inside the SQLite shell:  .read transaction_demo.sql
+-- From the PostgreSQL psql prompt, run: \i transaction_demo.sql
 -- Do NOT modify this file.
 --
 -- This script creates a small 'accounts' table, populates it,
